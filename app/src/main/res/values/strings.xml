@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Submission Android Sederhana</string>
+    <string name="tvChar">Name Character : </string>
+    <string name="tvPath">Name Path : </string>
+    <string name="tvElement">Name Element : </string>
+    <string name="textview">TextView</string>
+    <string name="description">Description :</string>
+    <string name="username">Nyoman Ananta Weda Kesawa</string>
+    <string name="email">anantaweda3@gmail.com</string>
+    <string-array name="data_name">
+        <item>Bronya</item>
+        <item>Dan Heng Imbibitor Lunae</item>
+        <item>Blade</item>
+        <item>Fu Xuan</item>
+        <item>Gepard</item>
+        <item>Jingliu</item>
+        <item>Kafka</item>
+        <item>Loucha</item>
+        <item>Seele</item>
+        <item>Silver Wolf</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/bronya_character</item>
+        <item>@drawable/dan_heng_imbibitor_lunae_character</item>
+        <item>@drawable/blade_character_action_side_icon</item>
+        <item>@drawable/fu_xuan_character_action_side_icon</item>
+        <item>@drawable/gepard_character_action_side_icon</item>
+        <item>@drawable/jingliu_character_action_side_icon</item>
+        <item>@drawable/kafka_character_action_side_icon</item>
+        <item>@drawable/luocha_character_action_side_icon</item>
+        <item>@drawable/seele_character_action_side_icon</item>
+        <item>@drawable/silver_wolf_character_action_side_icon</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Bronya Rand, salah satu karakter playable dalam game Honkai Star Rail, menarik perhatian pemain. Bronya dapat diperoleh melalui Regular Warp banner dan Bronya adalah karakter berelemen Wind dengan path Harmony dan peran sebagai support. Kemampuannya memberikan buff untuk party sangat dicari pemain. Untuk meningkatkannya ke level 80, diperlukan berbagai material seperti Silvermane Badge, Insignia, Medal, Storm Eye, serta jumlah Credits dan EXP yang signifikan. Untuk memaksimalkan semua skillnya, diperlukan material tambahan seperti Harmonic Tune, Ancestral Hymn, dan Stellaris Symphony, bersama dengan kredit yang lebih besar. Detail skill Bronya pada level 1 mencakup serangan dasar Windrider Bullet, skill Support Combat Redeployment yang menghapus debuff dan meningkatkan DMG, Ultimate The Belobog March yang meningkatkan ATK dan critical DMG untuk party, serta Talent dan Technique yang memberikan keunggulan tambahan dalam pertarungan.</item>
+        <item>Dan Heng IL, karakter rarity bintang 5 dengan path Destruction, menawarkan potensi DPS yang sangat kuat dengan mekanisme Skill yang mengubah jenis serangan namun tetap dihitung sebagai serangan biasa. Untuk Light Cone terbaik, "On The Fall of an Aeon" adalah pilihan utama karena meningkatkan serangan biasa dan bisa di-stack hingga empat kali. Alternatifnya, "Nowhere To Run" juga efektif dengan meningkatkan serangan biasa dan memberikan heal saat menumbangkan musuh. Relic terbaik seperti "Wastelander of Banditry Desert" memberikan peningkatan Imaginary DMG dan Crit DMG yang cocok dengan peningkatan Crit Rate Dan Heng IL, sementara "Musketeer of Wild Wheat" meningkatkan ATK%, SPD, dan DMG. Dalam komposisi tim, fokus pada optimasi DPS Dan Heng IL dengan memadukan karakter seperti Harmony/Nilihity + Preservation/Abundance. Path Harmony dan Nihility memberikan buff atau debuff untuk meningkatkan DMG, sementara Preservation atau Abundance menjaga health point Dan Heng IL dalam pertempuran.</item>
+        <item>Untuk memaksimalkan karakter Blade, kamu harus fokus pada meningkatkan level karakter serta ascension-nya menggunakan material seperti Immortal Scionette, Immortal Aeroblossom, dan Immortal Lumintwig. Jangan lupa untuk meningkatkan Trace dan talent Blade, yang memerlukan material yang sama. Selain itu, untuk meningkatkan Trace level 5++ dan seterusnya, kamu akan membutuhkan Trace Material bernama Regret of Infinite Ochema, yang bisa didapatkan dari Phantylia, Weekly Boss, yang berlokasi di Echo of War: Divine Seed di Scalegorge Waterscape. Pastikan untuk menyelesaikan Trailblaze Mission: A Dragon Gallant, Its Ocean Distant untuk membuka boss baru. Untuk build Blade, fokuslah pada meningkatkan Basic ATK Blade (Shard Sword) dan Skill Blade (Hellscape), serta Ultimate Blade (Death Sentence Blade) dan Talent Blade (Shuhu’s Gift). Penggunaan skill dan ultimate akan mengurangi HP Blade, tetapi dengan batasan minimum yang aman. Pastikan untuk memanfaatkan Eidolon 1 (E1) dan Eidolon 6 (E6) jika mengincar eidolon untuk meningkatkan efektivitas build tersebut. Dengan memperhatikan prioritas Trace dan memaksimalkan penggunaan skill serta talent, kamu dapat mengoptimalkan kinerja karakter Blade dalam pertempuran.</item>
+        <item>Fu Xuan bukan hanya memberikan perlindungan melalui Matrix of Prescience yang mengurangi kerusakan yang diterima oleh timnya, tetapi juga memberikan serangan Quantum yang kuat melalui Ultimate-nya, Woes of Many Morphed to One. Dengan kombinasi keterampilan dan bakatnya, Fu Xuan dapat menjadi pilar utama dalam menjaga kelangsungan hidup tim serta memberikan kontribusi yang signifikan dalam menghadapi musuh-musuh yang kuat. Dengan memperhatikan strategi dalam membangunnya dan memprioritaskan pengembangan Trace-nya, Fu Xuan dapat menjadi aset yang sangat berharga dalam pertempuran melawan ancaman Honkai. Selain itu, kemampuan Technique-nya, Of Fortune Comes Fate, memberikan perlindungan tambahan dalam menjelajahi lingkungan serta memungkinkan Fu Xuan untuk secara otomatis memicu Matrix of Prescience saat memasuki pertempuran, memberikan keunggulan strategis yang berharga bagi timnya. Dengan kombinasi yang baik dari kemampuan defensif dan serangan yang kuat, Fu Xuan menjadi karakter yang sangat fleksibel dan efektif dalam berbagai situasi pertempuran.</item>
+        <item>Gepard adalah karakter Es dalam game Honkai: Star Rail, yang sesuai dengan tema tanah asalnya yang bersalju, Jarilo-VI. Dia mengikuti Jalur Qlipoth, Aeon of Preservation, dan berperan sebagai pembela untuk tim Honkai: Star Rail-nya. Dengan Skill-nya, Gepard dapat membekukan musuh, sementara Ultimate nya bisa memberikan shield kepada seluruh tim. Meskipun tidak sekuat shield yang ia berikan dalam beberapa karakter lain di honkai starrail, Gepard tetap merupakan shielder yang sangat baik. Selain memberikan ketahanan kepada tim, Gepard juga memiliki peluang lebih tinggi untuk diserang oleh musuh, sehingga meningkatkan levelnya adalah pilian yang bagus untuk memastikan kelangsungannya tim saat memulai pertempuran. Oleh karena itu, pemain harus mengumpulkan bahan-bahan Gepard berikut jika ingin menggunakannya di Honkai: Star Rail seperti Silvermane Badge, Horn of Snow, Endurance of Bronze/Oath of Steel/Safeguard of Amber dan Guardian Lament</item>
+        <item>Jingliu adalah karakter dalam game Honkai Star Rail yang memiliki elemen Ice dan Path Destruction. Dia adalah mantan pemimpin dari The High-Cloud Quintet Xianzhou Luofu yang terdiri dari Jingyuan, Yingxing (sekarang Blade), Dan Feng, dan Baiheng. Dalam pertarungan, Jingliu menggunakan serangan dasar bernama Lucent Moonglow yang menyebabkan Ice DMG sebesar 100% dari ATK-nya pada satu musuh, sambil memperoleh 1 lapisan "Syzygy", meningkatkan 20 Energy, dan menyebabkan Weakness Break pada satu musuh sebanyak 60 poin. Skill lainnya termasuk Transcendent Flash yang juga menyebabkan Ice DMG dan memperoleh lapisan "Syzygy", serta Moon on Glaciar River yang merupakan Enhanced Skill yang dapat menyebabkan Ice DMG pada musuh di sekitar target tanpa mengonsumsi Skill Point. Ultimate ability Jingliu, Florephemeral Dreamflux, menghasilkan Ice DMG yang besar pada musuh yang ditarget dan musuh di sekitarnya. Setelah serangan selesai, Jingliu memperoleh 1 lapisan "Syzygy", pemulihan Energy, dan menyebabkan Weakness Break pada musuh sebanyak 60 poin atau lebih. Dengan kombinasi keterampilan ini, Jingliu menjadi karakter yang kuat dan efektif dalam menghadapi lawan di Honkai Star Rail.</item>
+        <item>Kafka adalah karakter yang mengandalkan kemampuan serangan dan manipulasi status untuk mendominasi medan pertempuran. Skillnya, "Caressing Moonlight", menghasilkan kerusakan lightning pada musuh dan di sekitarnya, dengan kemampuan tambahan untuk meningkatkan kerusakan setiap kali musuh terkena debuff DoT. Ultimate-nya, "Twilight Trill", menyebabkan kerusakan lightning massal dan memberi peluang pada musuh untuk memasuki status Shock, yang menyebabkan kerusakan tambahan dari serangan lightning dan debuff DoT. Tracinya, "Torture", mengubah efek status Shock dari Ultimate untuk menyebabkan kerusakan dari semua debuff DoT. "Plunder" memperkuat Kafka saat musuh dengan status Shock dikalahkan, sementara "Thorns" meningkatkan peluang untuk memicu status Shock dengan teknik dan serangan lanjutan. Tekniknya, "Mercy Is Not Forgiveness", memberikan serangan lightning massal saat pertempuran dimulai dan memberi peluang pada musuh untuk memasuki status Shock. Talent-nya, "Gentle but Cruel", memberi Kafka kemampuan untuk memicu serangan lanjutan setelah rekan timnya melakukan serangan dasar, dengan potensi untuk menyebabkan status Shock pada musuh. Dengan kombinasi skill, ultimate, trace, technique, dan talent-nya, Kafka menjadi ancaman yang tangguh di medan pertempuran.</item>
+        <item>Luocha, karakter dari Honkai Star Rail dengan Path The Abundance dan elemen Imaginary, adalah seorang pedagang asing yang menjadi healer dan support multifungsi. Dia memiliki kemampuan heal yang kuat, membersihkan debuff tim, dan menghapus buff musuh. Dengan skill dan talent uniknya, Luocha dapat memberikan heal berdasarkan attack-nya, menciptakan area buff untuk memberikan heal setiap kali karakter menyerang, dan memiliki sistem emergency heal. Talent-nya, "Cycle of Life," memberikan stack Abyss Flower setiap kali menggunakan skill atau ultimate, yang kemudian memberikan mekanisme heal per attack kepada semua karakter tim. Skill-nya, "Prayer of Abyss Flower," memberikan heal besar kepada target dan menambah stack Abyss Flower. Ultimate-nya, "Death Wish," memberikan damage elemen Imaginary kepada lawan dan menghilangkan 1 buff, serta menambah 1 stack Abyss Flower. Dengan kemampuan ini, Luocha menjadi karakter support yang sangat berharga di berbagai tim.</item>
+        <item>Seele, karakter Bintang 5 di Honkai: Star Rail, adalah tulang punggung Wildfire yang berasal dari Dunia Bawah Belobog dan hanya sekali menyaksikan Dunia Atas dengan bantuan Oleg. Para pemain disarankan menggunakan Genius of Brilliant Stars Relic Set untuk meningkatkan Quantum Damage sebesar 10%, atau Musketeer of Wild Wheat Set untuk meningkatkan damage sebesar 12% dan kecepatan sebesar 6%. Untuk ornament, Relic yang cocok adalah Space Sealing Station Set yang meningkatkan Attack sebesar 12% dan memberikan tambahan 12% Attack saat Speed mencapai 120, atau Celestial Differentiator Set yang meningkatkan Critical Damage sebesar 16% dan memberikan Critical Rate sebesar 60% pada serangan pertama berakhir. Tim terbaik untuk Seele adalah Bronya dan Tingyun sebagai Support, serta Natasha sebagai Healer, dengan alternatif seperti Welt untuk Debuff, Pela untuk Debuff-Dispel, dan Gepard sebagai Tanker.</item>
+        <item>Silver Wolf adalah karakter unik yang mampu memberikan beragam debuff kepada musuh. Setiap serangannya memiliki potensi untuk mengurangi serangan, pertahanan, dan kecepatan musuh. Keistimewaannya terletak pada kemampuan untuk menanam weakness elemental di musuh berdasarkan elemen karakter di tim. Talent Silver Wolf, yang disebut "Awaiting System Response...", memiliki potensi untuk menanam 3 jenis debuff selama 3 putaran, dengan kemungkinan awal 60% pada level 1. Skillnya, "Allow Changes?", dapat menambah weakness sesuai elemen tim dan mengurangi resistance musuh terhadap semua elemen. Ultimate-nya, "User Banned", memberikan damage quantum besar sambil mengurangi pertahanan musuh. Dengan kombinasi kemampuan debuff dan pengurangan resistensi, Silver Wolf diprediksi menjadi karakter yang sulit terkena power creep dan cocok untuk masa depan.</item>
+    </string-array>
+
+    <string-array name="data_element">
+        <item>Wind</item>
+        <item>Imaginary</item>
+        <item>Wind</item>
+        <item>Quantum</item>
+        <item>Ice</item>
+        <item>Ice</item>
+        <item>Lightning</item>
+        <item>Imaginary</item>
+        <item>Quantum</item>
+        <item>Quantum</item>
+    </string-array>
+
+    <string-array name="data_path">
+        <item>Harmony</item>
+        <item>Destruction</item>
+        <item>Destruction</item>
+        <item>Preservation</item>
+        <item>Preservation</item>
+        <item>Destruction</item>
+        <item>Nihility</item>
+        <item>Harmony</item>
+        <item>Hunt</item>
+        <item>Nihility</item>
+    </string-array>
+
+    <string-array name="data_relic_image_1">
+        <item>@drawable/messenger_traversing_hackerspace</item>
+        <item>@drawable/wastelander_of_banditry_desert</item>
+        <item>@drawable/longevous_disciple</item>
+        <item>@drawable/guard_of_wuthering_snow</item>
+        <item>@drawable/knight_of_purity_palace</item>
+        <item>@drawable/hunter_of_glacial_forest</item>
+        <item>@drawable/prisoner_in_deep_confinement</item>
+        <item>@drawable/musketeer_of_wild_wheat</item>
+        <item>@drawable/genius_of_brilliant_stars</item>
+        <item>@drawable/musketeer_of_wild_wheat</item>
+    </string-array>
+
+    <string-array name="data_relic_image_2">
+        <item>@drawable/musketeer_of_wild_wheat</item>
+        <item>@drawable/musketeer_of_wild_wheat</item>
+        <item>@drawable/messenger_traversing_hackerspace</item>
+        <item>@drawable/messenger_traversing_hackerspace</item>
+        <item>@drawable/guard_of_wuthering_snow</item>
+        <item>@drawable/genius_of_brilliant_stars</item>
+        <item>@drawable/band_of_sizzling_thunder</item>
+        <item>@drawable/fleet_of_the_ageless</item>
+        <item>@drawable/musketeer_of_wild_wheat</item>
+        <item>@drawable/genius_of_brilliant_stars</item>
+    </string-array>
+
+    <string-array name="data_relic_image_3">
+        <item>@drawable/fleet_of_the_ageless</item>
+        <item>@drawable/firmament_frontline_glamoth</item>
+        <item>@drawable/rutilant_arena</item>
+        <item>@drawable/fleet_of_the_ageless</item>
+        <item>@drawable/sprightly_vonwacq</item>
+        <item>@drawable/firmament_frontline_glamoth</item>
+        <item>@drawable/firmament_frontline_glamoth</item>
+        <item>@drawable/messenger_traversing_hackerspace</item>
+        <item>@drawable/firmament_frontline_glamoth</item>
+        <item>@drawable/pan_galactic_commercial_enterprise</item>
+    </string-array>
+
+    <string-array name="data_relic_text_1">
+        <item>Messenger Traversing</item>
+        <item>Wastelander of Banditry</item>
+        <item>Longevous Disciple</item>
+        <item>Guard of Wuthering Snow</item>
+        <item>Knight of Purity Palace</item>
+        <item>Hunter of Glacial Forest</item>
+        <item>Prisoner in Deep Confine</item>
+        <item>Musketeer of Wild Wheat</item>
+        <item>Genius of Brilliant Stars</item>
+        <item>Musketeer of Wild Wheat</item>
+    </string-array>
+
+    <string-array name="data_relic_text_2">
+        <item>Musketeer of Wild Wheat</item>
+        <item>Musketeer of Wild Wheat</item>
+        <item>Messenger Traversing Hackerspace</item>
+        <item>Messenger Traversing Hackerspace</item>
+        <item>Guard of Wuthering Snow</item>
+        <item>Genius of Brilliant Stars</item>
+        <item>Band of Sizzling Thunder</item>
+        <item>Fleet of the Ageless</item>
+        <item>Musketeer of Wild Wheat</item>
+        <item>Genius of Brilliant Stars</item>
+    </string-array>
+
+    <string-array name="data_relic_text_3">
+        <item>Fleet of the Ageless</item>
+        <item>Firmament Frontline</item>
+        <item>Rutilant Arena</item>
+        <item>Fleet of the Ageless</item>
+        <item>Sprightly Vonwacq</item>
+        <item>Firmament Frontline</item>
+        <item>Firmament Frontline</item>
+        <item>Messenger Traversing Hackerspace</item>
+        <item>Firmament Frontline</item>
+        <item>Pan-Galactic Commercial</item>
+    </string-array>
+
+</resources>
